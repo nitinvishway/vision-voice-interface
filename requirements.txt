@@ -1,0 +1,9 @@
+opencv-python-headless>=5.0.0.93
+mediapipe>=1.0.1
+pynput>=1.8.2
+pystray>=0.19.5
+Pillow>=12.3.0
+keyboard>=0.13.5
+screen-brightness-control>=0.27.2
+vosk>=0.3.45
+sounddevice>=0.5.6

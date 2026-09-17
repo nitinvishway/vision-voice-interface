@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Models (downloaded via instructions in README)
+models/
+
+# Environment / IDE
+.venv/
+venv/
+env/
+.idea/
+.vscode/
