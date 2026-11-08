@@ -1,4 +1,4 @@
-# Hands-Free Laptop Control (Lenovo Slim 7 14IMH9)
+# Hands-Free Laptop Control 
 
 Touchless control of your laptop using the built-in webcam (hand gestures)
 and microphone (voice commands). No IR blaster is used — this laptop only
